@@ -8,7 +8,7 @@
 - 📫 How to reach me? omerlevi2007@gmail.com
 
 
-`## 🛠️ Skills
+## 🛠️ Skills
 
 ### Languages
 
