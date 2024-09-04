@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-🎓 I'm Omer levi, a Computer Science student at Tel Hai college.
+Graduated from Tel Hai Academic College with a BSc in Computer Science.
+
+
 
 ## 🛠️ Skills
 
